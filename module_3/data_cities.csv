@@ -1,0 +1,32 @@
+﻿City;country;citizens;citizens_density;restaurants_number;citizens_per_restaurant;restaurants_density;tourists_per_year;tourists_per_citizens;total_per_restaurant;Source d'information sur des touristes
+London;England;8908081;5667;16986;524;11;19233000;2.16;1657;Wikipedia, List of cities by international visitors
+Paris;France;2148327;20781;15467;139;150;17560200;8.17;1274;Wikipedia, List of cities by international visitors
+Madrid;Spain;3266126;5380;10112;323;17;5440100;1.67;861;Wikipedia, List of cities by international visitors
+Barcelona;Spain;1664182;16428;8622;193;85;6714500;4.03;972;Wikipedia, List of cities by international visitors
+Berlin;Germany;3644826;4088;6372;572;7;5959400;1.64;1507;Wikipedia, List of cities by international visitors
+Milan;Italy;1378689;7589;6668;207;37;6481300;4.7;1179;Wikipedia, List of cities by international visitors
+Rome;Italy;2870500;2234;10177;282;8;10065400;3.51;1271;Wikipedia, List of cities by international visitors
+Prague;Czech;1301132;2506;4631;281;9;8948600;6.88;2213;Wikipedia, List of cities by international visitors
+Lisbon;Portugal;505526;5055;4486;113;45;3539400;7;902;Wikipedia, List of cities by international visitors
+Vienna;Austria;1897491;4503;3738;508;9;6410300;3.38;2223;Wikipedia, List of cities by international visitors
+Amsterdam;Netherlands;872757;4768;3649;239;20;8354200;9.57;2529;Wikipedia, List of cities by international visitors
+Brussels;Belgium;179277;5497;3004;60;92;3942000;21.99;1372;Wikipedia, List of cities by international visitors
+Hamburg;Germany;1841179;2389;2885;638;4;1450000;0.79;1141;Wikipedia, List of cities by international visitors
+Munich;Germany;1471508;4713;2848;517;9;4066600;2.76;1945;Wikipedia, List of cities by international visitors
+Lyon;France;506615;10041;2666;190;53;6000000;11.84;2441;Wikipedia, List of cities by international visitors
+Stockholm;Sweden;961609;5140;2729;352;15;2604600;2.71;1307;Wikipedia, List of cities by international visitors
+Budapest;Hungary;1752286;3331;2750;637;5;3822800;2.18;2027;Wikipedia, List of cities by international visitors
+Warsaw;Poland;1790658;3449;2739;654;5;2850000;1.59;1694;Wikipedia, List of cities by international visitors
+Dublin;Ireland;1173179;3689;2082;563;7;5213400;4.44;3068;Wikipedia, List of cities by international visitors
+Copenhagen;Denmark;615993;6215;1968;313;20;3069700;4.98;1873;Wikipedia, List of cities by international visitors
+Athens;Greece;664046;7500;2300;289;26;5728400;8.63;2779;Wikipedia, List of cities by international visitors
+Edinburgh;Scotland;488100;4140;1766;276;15;1660000;3.4;1216;Wikipedia, List of cities by international visitors
+Zurich;Switzerland;428737;4666;1660;258;18;2240000;5.22;1608;Wikipedia, List of cities by international visitors
+Oporto;Portugal;237591;5703;1829;130;44;2341300;9.85;1410;Wikipedia, List of cities by international visitors
+Geneva;Switzerland;200548;12589;1413;142;89;1150000;5.73;956;Wikipedia, List of cities by international visitors
+Krakow;Poland;779115;2384;1494;521;5;2732000;3.51;2350;Wikipedia, List of cities by international visitors
+Oslo;Norway;673469;1483;1165;578;3;619000;0.92;1109;Wikipedia, List of cities by international visitors
+Helsinki;Finland;655281;3058;1444;454;7;4175012;6.37;3345;-
+Bratislava;Slovakia;437725;1189;1041;420;3;1400056;3.2;1765;Annual Report 2018, Bratislava Tourist Board 2018
+Luxembourg;Luxembourg;115227;2240;659;175;13;1018000;8.83;1720;knoema.ru/atlas/Люксембург/Количество-прибывшых
+Ljubljana;Slovenia;284355;1736;539;528;3;1548000;5.44;3400;2tm.si/v-2017-godu-lyublyanu-posetilo-rekordnoe-chislo-turistov
